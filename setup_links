@@ -1,0 +1,8 @@
+#!/bin/bash
+ln -s ~/dotfiles/alacritty ~/.config/alacritty
+ln -s ~/dotfiles/joshuto ~/.config/joshuto
+ln -s ~/dotfiles/fish ~/.config/fish
+ln -s ~/dotfiles/nvim ~/.config/nvim
+ln -s ~/dotfiles/hypr ~/.config/hypr
+ln -s ~/dotfiles/lazygit ~/.config/lazygit
+ln -s ~/dotfiles/htop ~/.config/htop

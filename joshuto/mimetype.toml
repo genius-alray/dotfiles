@@ -1,0 +1,9 @@
+[mimetype.text]
+inherit = "text_default"
+[mimetype.audio]
+inherit = "media_default"
+[mimetype.video]
+inherit = "media_default"
+[class]
+text_default = [{ command = "nvim" }]
+media_default = [{ command = "mpv" }]
