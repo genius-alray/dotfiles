@@ -6,3 +6,4 @@ ln -s ~/dotfiles/nvim ~/.config/nvim
 ln -s ~/dotfiles/hypr ~/.config/hypr
 ln -s ~/dotfiles/lazygit ~/.config/lazygit
 ln -s ~/dotfiles/htop ~/.config/htop
+ln -s ~/dotfiles/waybar ~/.config/waybar

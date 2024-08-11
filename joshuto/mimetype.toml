@@ -5,5 +5,5 @@ inherit = "media_default"
 [mimetype.video]
 inherit = "media_default"
 [class]
-text_default = [{ command = "nvim" }]
+text_default = [{ command = "neovide" }]
 media_default = [{ command = "mpv" }]
