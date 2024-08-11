@@ -7,6 +7,14 @@
     "hyprland/window"
   ],
   "modules-right": [
-    "tray"
-  ]
+    "tray",
+    "wireplumber"
+  ],
+  "wireplumber": {
+    "format": "{volume}%",
+    "format-muted": "",
+    "on-click": "helvum",
+    "max-volume": 150,
+    "scroll-step": 2
+  }
 }
